@@ -1,0 +1,13 @@
+# Folders
+.idea
+tmp
+
+# Files
+*.o
+*.a
+*.so
+*.exe
+*.test
+*.prof
+go.mod
+go.sum
